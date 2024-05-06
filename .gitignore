@@ -25,15 +25,11 @@ bin/
 # or
 */bin/*
 
-# Unignore all `.jar` in `bin` dir
-!*/bin/*.jar
-
-# Ignore all `library.jar` in `bin` dir
-*/bin/library.jar
-
 !**/Makefile
 
-!lab*/**
+!Lab/lab*/**
+
+!Proactice/**/*
 
 .vscode
 output

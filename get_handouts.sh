@@ -34,3 +34,7 @@ mv perflab-handout   lab8_perflab-handout
 mv shlab-handout     lab9_shlab-handout
 mv malloclab-handout lab10_malloclab-handout
 mv proxylab-handout  lab11_proxylab-handout
+
+mkdir Lab
+
+mv lab* ./Lab
